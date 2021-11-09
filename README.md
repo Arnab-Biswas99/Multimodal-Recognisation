@@ -1,1 +1,1 @@
-# Multimodal-Recognisation
+We have done a literature survey about multimodal recognition technique using the face and fingerprint. This method is first introduced in this paper https://ieeexplore.ieee.org/document/5616134. Here, minutiae extraction is used for fingerprint recognition and ULBP is used for face recognition. At last fusion method is used to get the multimodal recognition. 
